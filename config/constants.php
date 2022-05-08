@@ -2,7 +2,7 @@
     //start session
     session_start();
 
-    define('SITEURL', 'http://localhost:8888/alphabeta/');
+    define('SITEURL', 'http://localhost:/alphabeta/');
     define('LOCALHOST', 'localhost');
     define('DB_USERNAME', 'root');
     define('DB_PASSWORD', '');
