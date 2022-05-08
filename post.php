@@ -51,14 +51,14 @@
                     <tr>
                         <td>Description: </td>
                         <td>
-                            <textarea name="description" cols="30" rows="5" placeholder="Description of the news."></textarea>
+                            <textarea name="description" cols="22" rows="5" placeholder="Description of the news." ></textarea>
                         </td>
                     </tr>
 
                     <tr>
                         <td>Link: </td>
                         <td>
-                            <input type="text" name="link">
+                            <input type="text" name="link" placeholder="Link of news">
                         </td>
                     </tr>
                     <tr>
@@ -69,7 +69,7 @@
 
                     <tr>
                         <td colspan="2">
-                            <input type="submit" name="submit" value="Add news" class="btn-secondary">
+                            <input type="submit" name="submit" value="Post" class="btn-secondary">
                         </td>
                     </tr>
 
